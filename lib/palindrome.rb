@@ -1,2 +1,2 @@
-module Palindrome
+class Palindrome
 end
